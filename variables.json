@@ -1,18 +1,19 @@
 {
   "pandoc": {
-    "title": "Manuscript Title",
+    "title": "A species-specific Nanopore basecalling model improves sequencing accuracy for _Mycobacterium tuberculosis_ ",
     "keywords": [
-      "markdown",
-      "publishing",
-      "manubot"
+      "nanopore",
+      "bioinformatics",
+      "mycobacterium-tuberculosis",
+      "basecalling"
     ],
-    "lang": "en-US",
+    "lang": "en-GB",
     "date-meta": "2021-11-25",
     "author-meta": [
-      "John Doe",
-      "Jane Roe"
+      "Michael B. Hall",
+      "Zamin Iqbal"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Manuscript Title\" />\n<meta name=\"citation_title\" content=\"Manuscript Title\" />\n<meta property=\"og:title\" content=\"Manuscript Title\" />\n<meta property=\"twitter:title\" content=\"Manuscript Title\" />\n<meta name=\"dc.date\" content=\"2021-11-25\" />\n<meta name=\"citation_publication_date\" content=\"2021-11-25\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://mbhall88.github.io/tubby-manuscript/\" />\n<meta property=\"og:url\" content=\"https://mbhall88.github.io/tubby-manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://mbhall88.github.io/tubby-manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://mbhall88.github.io/tubby-manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://mbhall88.github.io/tubby-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://mbhall88.github.io/tubby-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://mbhall88.github.io/tubby-manuscript/v/8086a3985300c203353acbe44a2fc908f677d563/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://mbhall88.github.io/tubby-manuscript/v/8086a3985300c203353acbe44a2fc908f677d563/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://mbhall88.github.io/tubby-manuscript/v/8086a3985300c203353acbe44a2fc908f677d563/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"A species-specific Nanopore basecalling model improves sequencing accuracy for _Mycobacterium tuberculosis_ \" />\n<meta name=\"citation_title\" content=\"A species-specific Nanopore basecalling model improves sequencing accuracy for _Mycobacterium tuberculosis_ \" />\n<meta property=\"og:title\" content=\"A species-specific Nanopore basecalling model improves sequencing accuracy for _Mycobacterium tuberculosis_ \" />\n<meta property=\"twitter:title\" content=\"A species-specific Nanopore basecalling model improves sequencing accuracy for _Mycobacterium tuberculosis_ \" />\n<meta name=\"dc.date\" content=\"2021-11-25\" />\n<meta name=\"citation_publication_date\" content=\"2021-11-25\" />\n<meta name=\"dc.language\" content=\"en-GB\" />\n<meta name=\"citation_language\" content=\"en-GB\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Michael B. Hall\" />\n<meta name=\"citation_author_institution\" content=\"European Bioinformatics Institute, Hinxton, Cambridge, CB10 1SD, UK\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3683-6208\" />\n<meta name=\"twitter:creator\" content=\"@mbhall88\" />\n<meta name=\"citation_author\" content=\"Zamin Iqbal\" />\n<meta name=\"citation_author_institution\" content=\"European Bioinformatics Institute, Hinxton, Cambridge, CB10 1SD, UK\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-8466-7547\" />\n<meta name=\"twitter:creator\" content=\"@ZaminIqbal\" />\n<link rel=\"canonical\" href=\"https://mbhall88.github.io/tubby-manuscript/\" />\n<meta property=\"og:url\" content=\"https://mbhall88.github.io/tubby-manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://mbhall88.github.io/tubby-manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://mbhall88.github.io/tubby-manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://mbhall88.github.io/tubby-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://mbhall88.github.io/tubby-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://mbhall88.github.io/tubby-manuscript/v/fc5c7df114255eec6850d12d4249e619d85e8f3c/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://mbhall88.github.io/tubby-manuscript/v/fc5c7df114255eec6850d12d4249e619d85e8f3c/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://mbhall88.github.io/tubby-manuscript/v/fc5c7df114255eec6850d12d4249e619d85e8f3c/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -25,14 +26,28 @@
     "date": "November 25, 2021",
     "authors": [
       {
-        "github": "johndoe",
-        "name": "John Doe",
-        "initials": "JD",
-        "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "twitter": "johndoe",
-        "email": "john.doe@something.com",
+        "github": "mbhall88",
+        "name": "Michael B. Hall",
+        "initials": "MBH",
+        "orcid": "0000-0003-3683-6208",
+        "twitter": "mbhall88",
+        "email": "michael.hall@ebi.ac.uk",
         "affiliations": [
-          "Department of Something, University of Whatever"
+          "European Bioinformatics Institute, Hinxton, Cambridge, CB10 1SD, UK"
+        ],
+        "affiliation_numbers": [
+          1
+        ]
+      },
+      {
+        "github": "iqbal-lab",
+        "name": "Zamin Iqbal",
+        "initials": "ZI",
+        "orcid": "0000-0001-8466-7547",
+        "twitter": "ZaminIqbal",
+        "email": "zi@ebi.ac.uk",
+        "affiliations": [
+          "European Bioinformatics Institute, Hinxton, Cambridge, CB10 1SD, UK"
         ],
         "funders": [
           "Grant XXXXXXXX"
@@ -40,31 +55,12 @@
         "affiliation_numbers": [
           1
         ]
-      },
-      {
-        "github": "janeroe",
-        "name": "Jane Roe",
-        "initials": "JR",
-        "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "email": "jane.roe@whatever.edu",
-        "affiliations": [
-          "Department of Something, University of Whatever",
-          "Department of Whatever, University of Something"
-        ],
-        "affiliation_numbers": [
-          1,
-          2
-        ]
       }
     ],
     "affiliations": [
       {
-        "affiliation": "Department of Something, University of Whatever",
+        "affiliation": "European Bioinformatics Institute, Hinxton, Cambridge, CB10 1SD, UK",
         "affiliation_number": 1
-      },
-      {
-        "affiliation": "Department of Whatever, University of Something",
-        "affiliation_number": 2
       }
     ],
     "ci_source": {
@@ -72,19 +68,19 @@
       "repo_slug": "mbhall88/tubby-manuscript",
       "repo_owner": "mbhall88",
       "repo_name": "tubby-manuscript",
-      "commit": "8086a3985300c203353acbe44a2fc908f677d563",
-      "triggering_commit": "8086a3985300c203353acbe44a2fc908f677d563",
-      "build_url": "https://github.com/mbhall88/tubby-manuscript/commit/8086a3985300c203353acbe44a2fc908f677d563/checks",
-      "job_url": "https://github.com/mbhall88/tubby-manuscript/actions/runs/1502076100"
+      "commit": "fc5c7df114255eec6850d12d4249e619d85e8f3c",
+      "triggering_commit": "fc5c7df114255eec6850d12d4249e619d85e8f3c",
+      "build_url": "https://github.com/mbhall88/tubby-manuscript/commit/fc5c7df114255eec6850d12d4249e619d85e8f3c/checks",
+      "job_url": "https://github.com/mbhall88/tubby-manuscript/actions/runs/1502317035"
     },
     "html_url": "https://mbhall88.github.io/tubby-manuscript/",
     "pdf_url": "https://mbhall88.github.io/tubby-manuscript/manuscript.pdf",
-    "html_url_versioned": "https://mbhall88.github.io/tubby-manuscript/v/8086a3985300c203353acbe44a2fc908f677d563/",
-    "pdf_url_versioned": "https://mbhall88.github.io/tubby-manuscript/v/8086a3985300c203353acbe44a2fc908f677d563/manuscript.pdf",
+    "html_url_versioned": "https://mbhall88.github.io/tubby-manuscript/v/fc5c7df114255eec6850d12d4249e619d85e8f3c/",
+    "pdf_url_versioned": "https://mbhall88.github.io/tubby-manuscript/v/fc5c7df114255eec6850d12d4249e619d85e8f3c/manuscript.pdf",
     "manubot_version": "0.5.1",
     "rootstock_commit": "8086a3985300c203353acbe44a2fc908f677d563",
     "manuscript_stats": {
-      "word_count": 1410
+      "word_count": 899
     }
   }
 }
