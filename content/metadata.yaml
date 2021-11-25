@@ -1,26 +1,27 @@
 ---
-title: "Manuscript Title"
+title: "A species-specific Nanopore basecalling model improves sequencing accuracy for _Mycobacterium tuberculosis_ "
 keywords:
-  - markdown
-  - publishing
-  - manubot
-lang: en-US
+  - nanopore
+  - bioinformatics
+  - mycobacterium-tuberculosis
+  - basecalling
+lang: en-GB
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+  - github: mbhall88
+    name: Michael B. Hall
+    initials: MBH
+    orcid: 0000-0003-3683-6208
+    twitter: mbhall88
+    email: michael.hall@ebi.ac.uk
     affiliations:
-      - Department of Something, University of Whatever
+      - European Bioinformatics Institute, Hinxton, Cambridge, CB10 1SD, UK
+  - github: iqbal-lab
+    name: Zamin Iqbal
+    initials: ZI
+    orcid: 0000-0001-8466-7547
+    twitter: ZaminIqbal
+    email: zi@ebi.ac.uk
+    affiliations:
+      - European Bioinformatics Institute, Hinxton, Cambridge, CB10 1SD, UK
     funders:
       - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
