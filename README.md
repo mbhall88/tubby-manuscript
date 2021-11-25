@@ -1,4 +1,4 @@
-# A species-specific Nanopore basecalling model improves sequencing accuracy for _Mycobacterium tuberculosis_
+# Taxon-specific training of Nanopore basecalling models: _Mycobacterium tuberculosis_
 
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://mbhall88.github.io/tubby-manuscript/)
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://mbhall88.github.io/tubby-manuscript/manuscript.pdf)
