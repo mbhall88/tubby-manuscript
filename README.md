@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/mbhall88/tubby-manuscript/tree/gh-pages) branch hosts the contents of this directory at <https://mbhall88.github.io/tubby-manuscript/>.
-The permalink for this webpage version is <https://mbhall88.github.io/tubby-manuscript/v/fc5c7df114255eec6850d12d4249e619d85e8f3c/>.
+The permalink for this webpage version is <https://mbhall88.github.io/tubby-manuscript/v/c95971024a881c70f07f3b01ff0f35ed8ecae3f0/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://mbhall88.github.io/tubby-manuscript/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`fc5c7df114255eec6850d12d4249e619d85e8f3c`](https://github.com/mbhall88/tubby-manuscript/commit/fc5c7df114255eec6850d12d4249e619d85e8f3c).
+[`c95971024a881c70f07f3b01ff0f35ed8ecae3f0`](https://github.com/mbhall88/tubby-manuscript/commit/c95971024a881c70f07f3b01ff0f35ed8ecae3f0).
